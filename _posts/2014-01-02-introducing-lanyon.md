@@ -3,9 +3,10 @@ layout: post
 title: Best free resources for learning data science
 ---
 
-I got interested in the data science field after reading the article on [HBR - The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) but wasnt able to get a right direction on how to get started on my data science journey.
+Some of the recommendations for the people who have basic programming knowledge on how to get started -
 
-After a lot of research on the web and trying out various things, I've the following recommendations for the people who have basic programming knowledge on how to get started -
+### Installing Anaconda
+* (Anaconda)[https://www.anaconda.com/]
 
 ### YouTube
 * [Great video on list of free Resources for learning data science](https://www.youtube.com/watch?v=eTxyviU0Ddo&list=LL-WVdIUTRnH6stq8Dk1jkxQ&index=3&t=0s)
@@ -24,7 +25,8 @@ After a lot of research on the web and trying out various things, I've the follo
 
 ### GitHub
 
-
+### HBR
+* [HBR - The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) 
 
 
 Thanks!
