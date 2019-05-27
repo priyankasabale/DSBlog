@@ -6,7 +6,7 @@ title: Best free resources for learning data science
 Some of the recommendations for the people who have basic programming knowledge on how to get started -
 
 ### Installing Anaconda
-* (Anaconda)[https://www.anaconda.com/]
+* [Anaconda](https://www.anaconda.com/)
 
 ### YouTube
 * [Great video on list of free Resources for learning data science](https://www.youtube.com/watch?v=eTxyviU0Ddo&list=LL-WVdIUTRnH6stq8Dk1jkxQ&index=3&t=0s)
