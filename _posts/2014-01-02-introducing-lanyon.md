@@ -8,7 +8,7 @@ I got interested in the data science field after reading the article on [HBR - T
 After a lot of research on the web and trying out various things, I've the following recommendations for the people who have basic programming knowledge on how to get started -
 
 ### YouTube
-* [Great video on lsit of free Resources for learning data science](https://www.youtube.com/watch?v=eTxyviU0Ddo&list=LL-WVdIUTRnH6stq8Dk1jkxQ&index=3&t=0s)
+* [Great video on list of free Resources for learning data science](https://www.youtube.com/watch?v=eTxyviU0Ddo&list=LL-WVdIUTRnH6stq8Dk1jkxQ&index=3&t=0s)
 
 
 ### Coursera
